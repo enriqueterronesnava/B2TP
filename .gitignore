@@ -1,1 +1,4 @@
 node_modules
+routes.rest
+swagger.js
+.env
